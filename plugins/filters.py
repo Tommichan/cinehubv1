@@ -71,7 +71,7 @@ async def filter(client: Bot, message: Message):
         )
 
         await message.reply_text(
-                f"<b> Here is the result for {message.text}</b>",
+                f"<b> Join for get Files https://t.me/joinchat/q5aaZIMvBIA2NmM1 {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
