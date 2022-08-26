@@ -7,22 +7,22 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot?style=social">
+  <a href="https://github.com/ADITYA_SIRJI518/Auto-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/ADITYA_SIRJI518/Auto-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/ADITYA_SIRJI518/Auto-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/ADITYA_SIRJI518/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518 -Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/ADITYA_SIRJI518)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518 -Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518 -Website-red?style=flat&logo=CodersRank)](https://ADITYA_SIRJI518.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/ADITYA_SIRJI518/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ADITYA_SIRJI518/Auto-Filter-Bot)
 
 
 
@@ -55,7 +55,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
+git clone https://github.com/ADITYA_SIRJI518/Auto-Filter-Bot
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
