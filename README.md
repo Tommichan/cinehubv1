@@ -18,9 +18,9 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518 -Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/ADITYA_SIRJI518)  
+[![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/ADITYA_SIRJI518)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518 -Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518 -Website-red?style=flat&logo=CodersRank)](https://ADITYA_SIRJI518.me)  
+[![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/ADITYA_SIRJI518-Website-red?style=flat&logo=CodersRank)](https://ADITYA_SIRJI518.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/ADITYA_SIRJI518/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ADITYA_SIRJI518/Auto-Filter-Bot)
 
